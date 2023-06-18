@@ -1,0 +1,53 @@
+.img0{
+    margin-left: 100px;
+}
+
+.img1{
+    width: 150px;
+    
+    margin-left: 60px;
+    margin-top:70px;
+    margin-bottom: 150px;
+}
+
+.div2{
+    background-color: black;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+.h1h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.h50{
+    color: white;
+    
+}
+
+.h51{
+    color: white;
+}
+
+.h52{
+    color: white;
+}
+
+.h53{
+    color: white;
+}
+
+.ul1000{
+  margin-bottom: 10px; 
+}
+
+.btn1{
+    margin-left: 250px;
+    padding-left: 150px;
+    padding-right: 150px;
+    height: 40px;
+    background-color: gray;
+    color: black;
+}

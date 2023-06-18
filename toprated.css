@@ -1,0 +1,75 @@
+.row_posters{
+    margin-left: 100px;
+}
+
+.h2.1{
+    margin-right: 100px;
+}
+
+.row{
+    background-color: gray;
+}
+
+body{
+    background-color: gray;
+}
+
+.li101 {
+    list-style-type: none;
+    line-height: 50px;
+}
+
+.a11 {
+    color:black;
+    text-decoration: none;
+}
+
+.ul102 {
+    margin-left: 300px;
+    margin-top: -100px;
+}
+
+.li102 {
+    list-style-type: none;
+    line-height: 50px;
+}
+
+.a12 {
+    color: black;
+    text-decoration: none;
+}
+
+.ul103 {
+    margin-left: 600px;
+    margin-top: -350px;
+}
+
+.li103 {
+    list-style-type: none;
+    line-height: 50px;
+}
+
+.a13 {
+    color: black;
+    text-decoration: none;
+}
+
+.ul104 {
+    margin-left: 900px;
+    margin-top: -90px;
+}
+
+.li104 {
+    list-style-type: none;
+    line-height: 50px;
+}
+
+.a14 {
+    color:black;
+    text-decoration: none;
+}
+
+.div100{
+    padding-bottom: 20px;
+    padding-top: 40px;
+}

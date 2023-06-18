@@ -1,0 +1,94 @@
+body{
+    background-image: radial-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.8) ),url("../netflix_aksan.html/arkaplan.jpg");
+}
+
+.img1{
+    margin-left: 100px;
+}
+
+.div2{
+    width: 500px;
+    height: 600px;
+    background-color: black;
+    margin-left: 530px;
+    border-radius: 20px;
+    
+}
+
+.h11{
+    color: white;
+    padding-left: 70px;
+    padding-top: 60px;
+}
+
+.inpt1{
+   background-color: darkslategrey;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 15px;
+    color: gray;
+    margin-left: 70px;
+    
+}
+
+.inpt2{
+    border-radius: 10px;
+    margin-top: 40px;
+    width: 250px;
+    height: 30px;
+    background-color: darkslategrey;
+    margin-left: 70px;
+}
+
+.btn1{
+    background-color: red;
+    border-radius: 10px;
+    width: 260px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+
+.inpt3{
+    color: white;
+    margin-left: 130px;
+    height: 15px;
+    border-radius: 3px;
+    margin-top: -50px;
+}
+
+.h55{
+    color: white;
+    margin-left: 100px;
+}
+
+.p10{
+    color: gray;
+    text-align: center;
+    
+}
+
+.p11{
+    color: gray;
+    text-align: center;
+    line-height:7px ;
+    
+}
+
+.p12{
+    color: gray;
+    text-align: center;
+    line-height: 7px;
+    
+}
+
+.p13{
+    color: gray;
+    text-align: center;
+    line-height: 7px;
+    
+}
+
+
+
