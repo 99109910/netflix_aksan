@@ -1,0 +1,744 @@
+.header {
+    width: 100%;
+    height: 40vh;
+    background: url(hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.header-menu:hover{
+    color: gray;
+}
+
+.a {
+    color: white;
+    text-decoration: none;
+}
+
+.header .col a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.header-menu ul {
+    margin-top: 2rem;
+}
+
+.header.col-3 {
+    margin-top: 2rem;
+}
+
+.header-h3 {
+    margin-top: 9rem;
+}
+
+#h33 {
+    margin-top: 8rem;
+}
+.ftr {
+    background-color: darkblue;
+}
+
+.h66 {
+    color: white;
+    text-align: center;
+    float: left;
+    margin-top: 70px;
+    margin-left: 130px;
+    font-size: 15px;
+}
+
+.ahr {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.p0 {
+    text-align: center;
+    float: left;
+    margin-top: 110px;
+    margin-left: -200px;
+}
+
+.p1 {
+    text-align: center;
+    color: white;
+    float: left;
+    margin-top: 150px;
+    margin-left: -340px;
+}
+
+.aaaaa {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 300px;
+
+}
+
+.icon {
+    text-align: center;
+    color: white;
+
+}
+
+.ahrf {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.p100 {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin-top: 200px;
+    margin-left: -1130px;
+}
+
+.p2 {
+    color: white;
+    text-align: center;
+    margin-left: -980px;
+}
+
+.a1000 {
+    color: white;
+    text-decoration: white;
+    margin-left: -1350px;
+}
+
+.ul1 {
+    margin-top: -285px;
+    margin-right: 800px;
+}
+
+.h55 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+
+.a1 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.a111 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+
+}
+
+.lili {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    list-style-type: none;
+    margin-left: -250px;
+}
+
+.lilil {}
+
+.h555 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin-right: 763px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.h666 {
+    margin-right: 375px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.ul2 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.a2 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.a22 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.ul3 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.lil {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    list-style-type: none;
+}
+
+.a3 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.ul4 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.lilil {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    list-style-type: none;
+}
+
+.a4 {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.news {
+    text-align: center;
+    float: right;
+    margin-right: -150px;
+    color: white;
+}
+
+.ul3{
+    margin-top: -190px;
+    margin-right: 400px;
+}
+
+.ul4{
+    margin-top: -110px;
+}
+
+.ul700{
+    float: right;
+    margin-right: 370px;
+    margin-top: -15px;
+}
+
+.ulul{
+   margin-left: 1200px;
+   
+}
+
+.lu{
+   float: right;
+   
+}
+
+.il{
+ list-style-type: none;
+ color: white;
+}
+
+.ada{
+text-decoration: none;
+color: white;
+}
+.cls {
+    text-align: center;
+    margin-right: -390px;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+#subscribeEmail {
+    margin-left: 190px;
+    border-radius: 0;
+}
+
+#notifyme-button {
+    margin-left: 680px;
+    margin-top: -80px;
+    border: 1px solid white;
+    color: white;
+    display: inline;
+}
+
+.white-text {
+    color: white;
+}
+
+.a100 {
+    color: white;
+
+}
+
+.a101 {
+    margin-left: 50px;
+    color: white;
+}
+
+#h01 {
+    color: red;
+}
+
+#h02 {
+
+    color: red;
+}
+
+
+
+
+
+#h03 {
+    color: red;
+}
+
+.a1001 {
+    text-decoration: none;
+    margin-left: 250px;
+    color: gray;
+}
+
+.d1010 {
+    background-image: url(card3.jpg);
+    height: 250px;
+}
+
+.h5h5 {
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+
+
+.p5p5 {
+    color: white;
+    padding-top: 30px;
+}
+
+.a5a5 {
+    margin-left: 730px;
+    color: gray;
+    padding-bottom: -100px;
+}
+
+.lilil2 {
+    list-style-type: none;
+}
+
+.a1111 {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.a5 {
+    text-decoration: none;
+    color: white;
+}
+
+.a1001:hover{
+    color: red;
+}
+
+.a5a5:hover{
+    background-color: white;
+}
+
+.body{
+    background-color: navy;
+}
+
+.ftr {
+    background-color: navy;
+    font-size: 13px;
+}
+
+.h66 {
+    color: white;
+    padding-top: 50px;
+
+    margin-left: 200px;
+}
+
+.p0 {
+    padding-top: 15px;
+    margin-left: 200px;
+}
+
+.ahr {
+    color: white;
+    text-decoration: none;
+}
+
+.p1 {
+    margin-left: 200px;
+    color: white;
+}
+
+.a000 {
+    text-align: center;
+}
+
+.fa-sharp {
+    margin-left: 210px;
+    color: white;
+}
+
+.p003 {
+    color: white;
+    margin-left: 230px;
+    margin-top: -19px;
+}
+
+.a00100 {
+    text-decoration: none;
+}
+
+.ahrf {
+    color: white;
+    text-decoration: none;
+}
+
+.p100 {
+    margin-left: 200px;
+    padding-top: 10px;
+}
+
+.p2 {
+    margin-left: 200px;
+    color: white;
+}
+
+.a0090 {
+    text-decoration: none;
+}
+
+.ul1 {
+    margin-left: 620px;
+    margin-top: -300px;
+}
+
+.h55 {
+    list-style-type: none;
+}
+
+.a1 {
+    text-decoration: none;
+    color: white;
+}
+
+.lili {
+    list-style-type: none;
+}
+
+.a111 {
+    color: white;
+    text-decoration: none;
+}
+
+.h555 {
+    margin-left: 650px;
+    margin-top: 40px;
+}
+
+.h666 {
+    margin-left: 650px;
+    margin-top: 25px;
+}
+
+.a2 {
+    color: white;
+    text-decoration: none;
+}
+
+.a22 {
+    color: white;
+    text-decoration: none;
+}
+
+.ul3 {
+    margin-left: 850px;
+    margin-top: -208px;
+}
+
+.a23 {
+    color: white;
+    text-decoration: none;
+}
+
+.lil {
+    list-style-type: none;
+}
+
+.a3 {
+    color: white;
+    text-decoration: none;
+}
+
+.il {
+    margin-left: 880px;
+    margin-top: 27px;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.ab {
+    text-decoration: none;
+    color: white;
+}
+
+.ili {
+    margin-left: 1030px;
+    margin-top: -175px;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.abab {
+    text-decoration: none;
+    color: white;
+}
+
+.ul4 {
+    margin-left: 1000px;
+    margin-top: 20px;
+}
+
+.h6666 {
+    font-size: 20px;
+}
+
+.lilil {
+    list-style-type: none;
+
+}
+
+.a4 {
+    text-decoration: none;
+    color: white;
+}
+
+.ulul {
+    margin-top: -290px;
+}
+
+.lilil2 {
+    margin-left: 1250px;
+    list-style-type: none;
+}
+
+.a5 {
+    text-decoration: none;
+    color: white;
+}
+
+.h1666{
+    font-size: 23px;
+    
+}
+
+.h1667{
+    font-size: 23px;
+}
+
+.news{
+    margin-left: 200px;
+    color: white;
+    font-size: 13px;
+    padding-bottom: 10px;
+}
+
+#notifymeform{
+    margin-left: 200px;
+    color: white;
+}
+
+#subscribeEmail{
+    border-radius: 0px;
+    background-color: navy;
+    color: white;
+    padding-left: 20px;
+}
+
+.btn{
+    border-radius: 0px;
+    color: white;
+    border: 1px solid white;
+    margin-left: 290px;
+    
+    margin-top: -61px;
+}
+
+.aa{
+  font-size: 30px;
+  background-color: navy;
+  color: white;
+}
+
+.aaa{
+    font-size: 30px;
+    background-color: navy;
+    margin-left: 50px;
+    color: white;
+}
+
+.aaaa{
+    font-size: 30px;
+    background-color: navy;
+    margin-left: 50px;
+    color: white;
+}
+
+.div10{
+    margin-left: 210px;
+    margin-top: 20px;
+}
+
+.a102{
+margin-left: 200px;
+color: white;
+font-size: 15px;
+}
+
+.a103{
+margin-left: 50px;
+color: white;
+font-size: 15px;
+}
+
+.copyr{
+   
+}
+
+.whiteeee{
+    margin-left:600px ;
+    color: white;
+    margin-bottom: 500px;
+}
+
+.a00:hover{
+    color: gray;
+    transition: 0.3s;
+}
+.p003:hover{
+    color: gray;
+    transition: 0.3s;
+}
+.a000:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.a00100:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.a0090:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+
+.a1:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.a111:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.a2:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.a22:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.a3:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.a23:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.ab:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.abab:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.a4:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.a5:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.acls:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.aa:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.aaa:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.aaaa:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.a102:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.a103:hover{
+    color: gray;
+    transition: 0.3s;
+}
+
+.ahr:hover{
+    color: gray;
+    transition: 0.3s;
+}

@@ -1,0 +1,92 @@
+
+.h11{
+    text-align: center;
+    color: red;
+    padding-top: 30px;
+}
+.h22{
+    text-align: center;
+    color: red;
+    margin-top: 50px;
+}
+
+.p1{
+    margin-top: 30px;
+}
+
+.ul1{
+  margin-top: 50px;
+}
+
+.li1{
+list-style-type: none;
+ma
+}
+
+.a1{
+    text-decoration: none;
+    color: black;
+}
+
+.ul2{
+  margin-left: 300px;
+  margin-top: -185px;
+  
+}
+
+.li2{
+    list-style-type: none;
+}
+
+.a2{
+    text-decoration: none;
+    color: black;
+}
+
+.ul3{
+   margin-left: 650px;
+   margin-top: -180px;
+}
+
+.li3{
+    list-style-type: none;
+}
+
+.a3{
+    text-decoration: none;
+    color: black;
+}
+
+.ul4{
+margin-left: 900px;
+margin-top: -145px;
+}
+
+.li4{
+    list-style-type: none;
+}
+
+.a4{
+    text-decoration: none;
+    color: black;
+}
+
+.a1 :hover{
+    color: red;
+    transition: 0.3s;
+}
+
+.a2 :hover{
+    color: red;
+    transition: 0.3s;
+}
+
+.a3 :hover{
+    color: red;
+    transition: 0.3s;
+}
+
+.a4 :hover{
+    color: red;
+    transition: 0.3s;
+}

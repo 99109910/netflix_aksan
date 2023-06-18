@@ -1,0 +1,126 @@
+.h2022{
+    color: red;
+    text-align: center;
+}
+
+.p2022{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.div1 {
+    background-image: url(osman-koycu-c6qF_lYvu2I-unsplash-1068x601.jpg);
+    width: 750px;
+    height: 450px;
+}
+
+.h11 {
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+}
+
+.aaa {
+    text-decoration: none;
+    color: gray;
+}
+
+.a2 {
+    margin-left: 25px;
+    color: gray;
+}
+
+.a1 {
+    color: gray;
+}
+
+.div2 {
+    float: right;
+    margin-top: -400px;
+    margin-right: 200px;
+}
+
+.a100 {
+    text-decoration: none;
+    color: gray;
+}
+
+.a400 {
+    margin-left: 25px;
+    color: gray;
+}
+
+.a3 {
+    color: gray;
+}
+
+.div3 {
+    margin-left: 300px;
+    margin-top: 90px;
+}
+
+.div4 {
+    background-image: url(b87c0aec.jpg);
+    width: 750px;
+    height: 450px;
+    float: right;
+    margin-top: -249px;
+}
+
+.h111 {
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+}
+
+.a3500 {
+    text-decoration: none;
+    color: gray;
+}
+
+.a3600 {
+    text-decoration: none;
+    color: gray;
+}
+
+.a3600:hover {
+    color: black;
+    transition: 0.3s;
+}
+
+.a3500:hover {
+    color: black;
+    transition: 0.3s;
+}
+
+.aaa:hover{
+    color: black;
+    transition: 0.3s;
+}
+
+.a100:hover{
+    color: black;
+    transition: 0.3s;
+}
+
+.a3:hover{
+    background-color: black;
+    transition: 0.3s;
+}
+
+.a400:hover {
+    background-color: black;
+    transition: 0.3s;
+}
+
+.a1:hover{
+    background-color: black;
+    transition: 0.3s;
+}
+
+.a2:hover{
+    background-color: black;
+    transition: 0.3s;
+}
